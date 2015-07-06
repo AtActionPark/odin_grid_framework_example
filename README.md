@@ -21,3 +21,6 @@ You'll be creating your own grid-based framework.
 * Fill in the necessary details/images etc.
 * Push your solution to Github.
 * Have a frosty beverage, you're done with the HTML/CSS projects!
+
+
+[HTML preview](http://htmlpreview.github.io/?https://github.com/AtActionPark/odin_grid_framework_example/blob/master/main.html)
