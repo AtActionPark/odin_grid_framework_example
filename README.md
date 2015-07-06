@@ -4,15 +4,6 @@ In this final project, you'll get to take everything you've learned and use it t
 
 Once you're done setting up your framework, you will use it to clone any website you like. If you're out of ideas, try cloning The Odin Project!
 
-#The Framework
-You'll be creating your own grid-based framework.
-
-* Follow the instructions atop the Google Homepage project to set up a Github repository for this project (of course you'll need to change the title).
-* Create a new CSS document.
-* Think about the major elements that are required of a framework. This includes a CSS reset, a fixed number of grids separated by "gutters", a way to make new rows, and default values for the font properties of elements.
-* Write the CSS necessary to create a basic 12-column grid framework. Check out the 960 Grid System documentation for a look at how they do it. The complexity is up to you -- there's no need to go too crazy with details (you're not trying to rebuild Bootstrap).
-* Push your framework to Github. 
-
 #Create a new HTML document and a new Github repository.
 
 * Identify the webpage you'd like to clone and break it down into its major elements like we have in the previous projects.
@@ -22,5 +13,7 @@ You'll be creating your own grid-based framework.
 * Push your solution to Github.
 * Have a frosty beverage, you're done with the HTML/CSS projects!
 
+
+As lazy as it looks, I decided to "revisit" the newsweek project, replacing only bootstrap by the newly created framework to see if it could work with zero corrections. It mostly does.
 
 [HTML preview](http://htmlpreview.github.io/?https://github.com/AtActionPark/odin_grid_framework_example/blob/master/main.html)
